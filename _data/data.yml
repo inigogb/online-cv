@@ -118,27 +118,16 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Ciosa México
+        link: "https://play.google.com/store/apps/details?id=com.ciosa.app"
+        tagline: "Hybrid mobile application for product querying, generating orders, and more."
+      - title: MiWimo
+        link: "https://play.google.com/store/apps/details?id=mx.com.apei.miwimo"
+        tagline: "Mobile application aimed to help with portability sales."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
+      - title: Raxapp
+        link: "https://play.google.com/store/apps/details?id=mx.com.apei.raxapp"
+        tagline: "Mobile application to help Raxa salespeople to sell SIM cards and portabilities."
 skills:
     title: Skills &amp; Proficiency
 
@@ -146,6 +135,9 @@ skills:
 
       - name: Javascript
         level: 80%
+
+      - name: Webpack
+        level: 50%
 
       - name: Angular
         level: 80%
@@ -175,7 +167,7 @@ skills:
         level: 60%
 
       - name: Bash
-        level: 70%
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
