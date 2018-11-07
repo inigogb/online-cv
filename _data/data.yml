@@ -43,7 +43,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a software developer with almost 
+      I'm a software developer with almost 4 years of experience in web development,
+      mobile applications development and almost 2 years of experience with backend development
+      using PHP, database design & implementation with SQL and MySQL/MariaDB.
+
+      I consider myself proactive and curious. A self-learner by nature and I love explaining
+      things I'm passionate about like programming.
 
 education:
 
@@ -51,14 +56,6 @@ education:
       university: Universidad Marista de Guadalajara
       time: 2009 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
 
 experiences:
     - role: Software Developer
@@ -138,6 +135,9 @@ skills:
 
       - name: MariaDB
         level: 60%
+
+      - name: SQL
+        level: 70%
 
       - name: Bash
         level: 60%
