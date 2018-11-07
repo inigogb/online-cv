@@ -3,44 +3,41 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Iñigo García Bastida
+    tagline: Software Developer
+    avatar: profilev2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: inigogab@gmail.com
+    phone: 332 506 3394
+    website:  #do not add http://
+    linkedin: iñigo-garcía-bastida-11a38458
+    github: inigogb
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: inigogab
+    twitter: '@inigogb'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
       - idiom: Spanish
-        level: Professional
+        level: Native
         
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
       - item: Cooking
+        link:
+
+      - item: Reading
+        link:
+
+      - item: Videogames
         link:
 
 career-profile:
@@ -55,22 +52,10 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Science
+      university: Universidad Marista de Guadalajara
+      time: 2009 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -153,47 +138,44 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 80%
 
       - name: Angular
-        level: 98%
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Nodejs
         level: 60%
+      
+      - name: PHP
+        level: 70%
+
+      - name: Android
+        level: 70%
+
+      - name: Apache Cordova
+        level: 50%
+
+      - name: Ionic
+        level: 50%
+
+      - name: MongoDB
+        level: 20%
+
+      - name: MariaDB
+        level: 60%
+
+      - name: Bash
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
